@@ -2,7 +2,7 @@ import pandas as pd
 import re
 
 input_file = "data/raw/data_compilation.xlsx"
-output_file = "data/processed/all_companies_cleaned.xlsx"
+output_file = "data/processed/cleaned_data.xlsx"
 
 target_rows = [
     "Operating Margin (%)",
